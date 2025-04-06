@@ -6,11 +6,11 @@
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
- "keywords": [],
+ "keywords": ["Tools/Skyllers"],
  "author": "glytglobal",
  "license": "ISC",
  "dependencies": {
-  "axios": "*"
+  "axios": "*",
   "file-type": "*",
   "form-data": "*",
   "node-fetch": "*"
