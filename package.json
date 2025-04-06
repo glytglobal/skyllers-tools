@@ -1,6 +1,6 @@
 {
  "name": "@skyllers-soft/tools",
- "version": "1.0.0",
+ "version": "1.0.1",
  "description": "Herramienta de extracción de datos, creación y utilización variada, utilizar con dicha responsabilidad",
  "main": "index.js",
  "scripts": {
@@ -11,5 +11,8 @@
  "license": "ISC",
  "dependencies": {
   "axios": "*"
+  "file-type": "*",
+  "form-data": "*",
+  "node-fetch": "*"
  }
 }
