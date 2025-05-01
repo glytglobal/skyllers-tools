@@ -48,7 +48,7 @@ $ yarn add github:glytglobal/soft-tools
 $ yarn add github:glytglobal/soft-tools#latest
 ```
 
-<h5>☆ FUNCIONES</h5>
+<h5>☆ FUNCTIONS</h5>
 <p>- Features offered by <b>Takanashi Hoshino Tools</b>:</p>
 
 ```
@@ -117,7 +117,7 @@ $ yarn add github:glytglobal/soft-tools
 $ yarn add github:glytglobal/soft-tools#latest
 ```
 
-<h5>☆ FUNCTIONS</h5>
+<h5>☆ FUNCIONES</h5>
 <p>- Funcionalidades que ofrece <b>Takanashi Hoshino Tools</b>:</p>
 
 ```
