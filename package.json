@@ -1,12 +1,12 @@
 {
- "name": "@skyllers-soft/tools",
+ "name": "@takanashi-soft/tools",
  "version": "1.0.1",
  "description": "Herramienta de extracción de datos, creación y utilización variada, utilizar con dicha responsabilidad",
  "main": "index.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
- "keywords": ["Tools/Skyllers"],
+ "keywords": ["Takanashi", "Hoshino", "Soft"],
  "author": "glytglobal",
  "license": "ISC",
  "dependencies": {
