@@ -1,17 +1,15 @@
 {
  "name": "@takanashi-soft/tools",
- "version": "1.0.1",
+ "version": "1.0.2",
  "description": "Herramienta de extracción de datos, creación y utilización variada, utilizar con dicha responsabilidad",
  "main": "index.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
- "keywords": ["Takanashi", "Hoshino", "Soft"],
+ "keywords": ["Takanashi", "Hoshino", "Soft", "Tools", "User-Agent"],
  "author": "glytglobal",
  "license": "ISC",
  "dependencies": {
-  "axios": "*",
-  "file-type": "*",
   "form-data": "*",
   "node-fetch": "*"
  }
