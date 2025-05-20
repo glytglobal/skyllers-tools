@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Herramienta de extracción de datos, creación y utilización variada, desarrollado especialmente en Node.js",
   "main": "index.js",
+  "type": "module",
   "author": "glytglobal",
   "license": "ISC",
   "repository": {
