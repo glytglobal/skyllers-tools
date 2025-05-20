@@ -1,14 +1,14 @@
-import { chatgpt, mylogic, takanashi, github, vault, yotools } from "./soft.js";
+const { chatgpt, mylogic, takanashi, github, vault, yotools } = require("./soft");
 
-export default {
-  ai: { 
+module.exports = {
+  ai: {
     chatgpt,
     mylogic,
     takanashi
   },
-  uploader: { 
-    github, 
-    vault, 
-    yotools 
+  uploader: {
+    github,
+    vault,
+    yotools
   },
 };
