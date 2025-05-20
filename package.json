@@ -1,16 +1,16 @@
 {
- "name": "@takanashi-soft/tools",
- "version": "1.0.2",
- "description": "Herramienta de extracción de datos, creación y utilización variada, utilizar con dicha responsabilidad",
- "main": "index.js",
- "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1"
- },
- "keywords": ["Takanashi", "Hoshino", "Soft", "Tools", "User-Agent"],
- "author": "glytglobal",
- "license": "ISC",
- "dependencies": {
-  "form-data": "*",
-  "node-fetch": "*"
- }
+  "name": "@takanashi-soft/tools",
+  "version": "1.0.0",
+  "description": "Herramienta de extracción de datos, creación y utilización variada, desarrollado especialmente en Node.js",
+  "main": "index.js",
+  "author": "glytglobal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glytglobal/soft-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glytglobal/soft-tools/issues"
+  },
+  "homepage": "https://github.com/glytglobal/soft-tools#readme"
 }
