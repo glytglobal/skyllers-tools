@@ -1,4 +1,4 @@
-const { chatgpt, mylogic, takanashi, github, vault, yotools } = require("./soft");
+const { chatgpt, mylogic, takanashi, github, vault, yotools, fbdl, igdl, ttdl } = require("./soft");
 
 module.exports = {
   ai: {
@@ -11,4 +11,9 @@ module.exports = {
     vault,
     yotools
   },
+  downloader: {
+    fbdl,
+    igdl,
+    ttdl
+  }
 };
